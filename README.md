@@ -7,8 +7,8 @@
 
 [如果需要其他版本的攻略图，请点击此处后选择你需要的版本号](https://github.com/CuewarsTaner/TFT)  
 
-【9.15版本】英雄羁绊费用图  
-![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.15/【9.15版本】英雄羁绊费用图.png)
+【9.16版本】英雄羁绊费用图
+![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.16/【9.16版本】英雄羁绊费用图.png)
 
-【9.15版本】装备图  
-![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.15/【9.15版本】装备图.png)
+【9.16版本】装备合成图 
+![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.16/【9.16版本】装备合成图.png)

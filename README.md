@@ -14,7 +14,7 @@
 【9.18版本】英雄羁绊费用图
 ![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.18/【9.18版本】英雄羁绊费用图.png)    
 
-**【9.18版本】更新说明：**    
+**【9.18版本】更新说明：**     
 ![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.18/9.18版本更新/1.png)
 ![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.18/9.18版本更新/2.png)
 ![Image text](https://raw.githubusercontent.com/CuewarsTaner/TFT/master/9.18/9.18版本更新/3.png)
